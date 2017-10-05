@@ -1,0 +1,499 @@
+fileFormatVersion: 2
+guid: f04fe272af757491989ad9fef716fb7f
+timeCreated: 1507059816
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Aro Holograma
+    100002: basurero
+    100004: conducto tanque00
+    100006: conducto tanque01
+    100008: conducto tanque02
+    100010: conducto tanque03
+    100012: conducto tanque04
+    100014: conducto tanque05
+    100016: conducto tanque06
+    100018: conducto tanque07
+    100020: conducto tanque08
+    100022: conducto tanque09
+    100024: cristal
+    100026: encimera 1
+    100028: 'encimera 2 '
+    100030: holograma
+    100032: mesa 1
+    100034: mesa 2
+    100036: modulo pared00
+    100038: modulo pared01
+    100040: modulo pared02
+    100042: modulo pared03
+    100044: modulo pared04
+    100046: modulo pared05
+    100048: modulo pared06
+    100050: modulo pared07
+    100052: //RootNode
+    100054: puerta
+    100056: silla00
+    100058: silla01
+    100060: silla02
+    100062: silla03
+    100064: silla04
+    100066: silla05
+    100068: silla06
+    100070: silla07
+    100072: silla08
+    100074: silla09
+    100076: silla10
+    100078: silla11
+    100080: Suelo
+    100082: tanque00
+    100084: tanque01
+    100086: tanque02
+    100088: tanque03
+    100090: tanque04
+    100092: tanque05
+    100094: tanque06
+    100096: tanque07
+    100098: tanque08
+    100100: tanque09
+    100102: techo
+    100104: lateral_suelo_baja003
+    100106: lateral_suelo_baja004
+    100108: Object001
+    100110: Plano_suelo_low001
+    100112: Plano_suelo_low002
+    100114: Plano_suelo_low003
+    100116: Plano_suelo_low004
+    100118: Plano_suelo_low005
+    100120: Plano_suelo_low006
+    100122: Plano_suelo_low007
+    100124: Plano_suelo_low008
+    100126: Plano_suelo_low009
+    100128: Plano_suelo_low010
+    100130: Plano_suelo_low011
+    100132: Plano_suelo_low012
+    100134: Plano_suelo_low013
+    100136: Plano_suelo_low014
+    100138: Plano_suelo_low015
+    400000: Aro Holograma
+    400002: basurero
+    400004: conducto tanque00
+    400006: conducto tanque01
+    400008: conducto tanque02
+    400010: conducto tanque03
+    400012: conducto tanque04
+    400014: conducto tanque05
+    400016: conducto tanque06
+    400018: conducto tanque07
+    400020: conducto tanque08
+    400022: conducto tanque09
+    400024: cristal
+    400026: encimera 1
+    400028: 'encimera 2 '
+    400030: holograma
+    400032: mesa 1
+    400034: mesa 2
+    400036: modulo pared00
+    400038: modulo pared01
+    400040: modulo pared02
+    400042: modulo pared03
+    400044: modulo pared04
+    400046: modulo pared05
+    400048: modulo pared06
+    400050: modulo pared07
+    400052: //RootNode
+    400054: puerta
+    400056: silla00
+    400058: silla01
+    400060: silla02
+    400062: silla03
+    400064: silla04
+    400066: silla05
+    400068: silla06
+    400070: silla07
+    400072: silla08
+    400074: silla09
+    400076: silla10
+    400078: silla11
+    400080: Suelo
+    400082: tanque00
+    400084: tanque01
+    400086: tanque02
+    400088: tanque03
+    400090: tanque04
+    400092: tanque05
+    400094: tanque06
+    400096: tanque07
+    400098: tanque08
+    400100: tanque09
+    400102: techo
+    400104: lateral_suelo_baja003
+    400106: lateral_suelo_baja004
+    400108: Object001
+    400110: Plano_suelo_low001
+    400112: Plano_suelo_low002
+    400114: Plano_suelo_low003
+    400116: Plano_suelo_low004
+    400118: Plano_suelo_low005
+    400120: Plano_suelo_low006
+    400122: Plano_suelo_low007
+    400124: Plano_suelo_low008
+    400126: Plano_suelo_low009
+    400128: Plano_suelo_low010
+    400130: Plano_suelo_low011
+    400132: Plano_suelo_low012
+    400134: Plano_suelo_low013
+    400136: Plano_suelo_low014
+    400138: Plano_suelo_low015
+    2300000: Aro Holograma
+    2300002: basurero
+    2300004: conducto tanque00
+    2300006: conducto tanque01
+    2300008: conducto tanque02
+    2300010: conducto tanque03
+    2300012: conducto tanque04
+    2300014: conducto tanque05
+    2300016: conducto tanque06
+    2300018: conducto tanque07
+    2300020: conducto tanque08
+    2300022: conducto tanque09
+    2300024: cristal
+    2300026: encimera 1
+    2300028: 'encimera 2 '
+    2300030: holograma
+    2300032: mesa 1
+    2300034: mesa 2
+    2300036: modulo pared00
+    2300038: modulo pared01
+    2300040: modulo pared02
+    2300042: modulo pared03
+    2300044: modulo pared04
+    2300046: modulo pared05
+    2300048: modulo pared06
+    2300050: modulo pared07
+    2300052: puerta
+    2300054: silla00
+    2300056: silla01
+    2300058: silla02
+    2300060: silla03
+    2300062: silla04
+    2300064: silla05
+    2300066: silla06
+    2300068: silla07
+    2300070: silla08
+    2300072: silla09
+    2300074: silla10
+    2300076: silla11
+    2300078: Suelo
+    2300080: tanque00
+    2300082: tanque01
+    2300084: tanque02
+    2300086: tanque03
+    2300088: tanque04
+    2300090: tanque05
+    2300092: tanque06
+    2300094: tanque07
+    2300096: tanque08
+    2300098: tanque09
+    2300100: techo
+    2300102: lateral_suelo_baja003
+    2300104: lateral_suelo_baja004
+    2300106: Object001
+    2300108: Plano_suelo_low001
+    2300110: Plano_suelo_low002
+    2300112: Plano_suelo_low003
+    2300114: Plano_suelo_low004
+    2300116: Plano_suelo_low005
+    2300118: Plano_suelo_low006
+    2300120: Plano_suelo_low007
+    2300122: Plano_suelo_low008
+    2300124: Plano_suelo_low009
+    2300126: Plano_suelo_low010
+    2300128: Plano_suelo_low011
+    2300130: Plano_suelo_low012
+    2300132: Plano_suelo_low013
+    2300134: Plano_suelo_low014
+    2300136: Plano_suelo_low015
+    3300000: Aro Holograma
+    3300002: basurero
+    3300004: conducto tanque00
+    3300006: conducto tanque01
+    3300008: conducto tanque02
+    3300010: conducto tanque03
+    3300012: conducto tanque04
+    3300014: conducto tanque05
+    3300016: conducto tanque06
+    3300018: conducto tanque07
+    3300020: conducto tanque08
+    3300022: conducto tanque09
+    3300024: cristal
+    3300026: encimera 1
+    3300028: 'encimera 2 '
+    3300030: holograma
+    3300032: mesa 1
+    3300034: mesa 2
+    3300036: modulo pared00
+    3300038: modulo pared01
+    3300040: modulo pared02
+    3300042: modulo pared03
+    3300044: modulo pared04
+    3300046: modulo pared05
+    3300048: modulo pared06
+    3300050: modulo pared07
+    3300052: puerta
+    3300054: silla00
+    3300056: silla01
+    3300058: silla02
+    3300060: silla03
+    3300062: silla04
+    3300064: silla05
+    3300066: silla06
+    3300068: silla07
+    3300070: silla08
+    3300072: silla09
+    3300074: silla10
+    3300076: silla11
+    3300078: Suelo
+    3300080: tanque00
+    3300082: tanque01
+    3300084: tanque02
+    3300086: tanque03
+    3300088: tanque04
+    3300090: tanque05
+    3300092: tanque06
+    3300094: tanque07
+    3300096: tanque08
+    3300098: tanque09
+    3300100: techo
+    3300102: lateral_suelo_baja003
+    3300104: lateral_suelo_baja004
+    3300106: Object001
+    3300108: Plano_suelo_low001
+    3300110: Plano_suelo_low002
+    3300112: Plano_suelo_low003
+    3300114: Plano_suelo_low004
+    3300116: Plano_suelo_low005
+    3300118: Plano_suelo_low006
+    3300120: Plano_suelo_low007
+    3300122: Plano_suelo_low008
+    3300124: Plano_suelo_low009
+    3300126: Plano_suelo_low010
+    3300128: Plano_suelo_low011
+    3300130: Plano_suelo_low012
+    3300132: Plano_suelo_low013
+    3300134: Plano_suelo_low014
+    3300136: Plano_suelo_low015
+    4300000: Suelo
+    4300002: modulo pared02
+    4300004: modulo pared03
+    4300006: modulo pared01
+    4300008: modulo pared00
+    4300010: modulo pared07
+    4300012: modulo pared06
+    4300014: modulo pared05
+    4300016: modulo pared04
+    4300018: cristal
+    4300020: puerta
+    4300022: encimera 1
+    4300024: 'encimera 2 '
+    4300026: Aro Holograma
+    4300028: holograma
+    4300030: techo
+    4300032: tanque05
+    4300034: tanque06
+    4300036: tanque07
+    4300038: tanque08
+    4300040: tanque09
+    4300042: tanque04
+    4300044: tanque03
+    4300046: tanque02
+    4300048: tanque01
+    4300050: tanque00
+    4300052: mesa 1
+    4300054: mesa 2
+    4300056: conducto tanque05
+    4300058: conducto tanque06
+    4300060: conducto tanque07
+    4300062: conducto tanque08
+    4300064: conducto tanque09
+    4300066: conducto tanque04
+    4300068: conducto tanque03
+    4300070: conducto tanque02
+    4300072: conducto tanque01
+    4300074: conducto tanque00
+    4300076: silla06
+    4300078: silla07
+    4300080: silla08
+    4300082: silla00
+    4300084: silla01
+    4300086: silla02
+    4300088: silla05
+    4300090: silla04
+    4300092: silla03
+    4300094: silla11
+    4300096: silla10
+    4300098: silla09
+    4300100: basurero
+    4300102: Object001
+    4300104: Plano_suelo_low013
+    4300106: Plano_suelo_low014
+    4300108: Plano_suelo_low015
+    4300110: Plano_suelo_low012
+    4300112: Plano_suelo_low011
+    4300114: Plano_suelo_low010
+    4300116: Plano_suelo_low003
+    4300118: Plano_suelo_low006
+    4300120: Plano_suelo_low009
+    4300122: Plano_suelo_low008
+    4300124: Plano_suelo_low005
+    4300126: Plano_suelo_low002
+    4300128: Plano_suelo_low001
+    4300130: Plano_suelo_low007
+    4300132: Plano_suelo_low004
+    4300134: lateral_suelo_baja003
+    4300136: lateral_suelo_baja004
+    6400000: Aro Holograma
+    6400002: basurero
+    6400004: conducto tanque00
+    6400006: conducto tanque01
+    6400008: conducto tanque02
+    6400010: conducto tanque03
+    6400012: conducto tanque04
+    6400014: conducto tanque05
+    6400016: conducto tanque06
+    6400018: conducto tanque07
+    6400020: conducto tanque08
+    6400022: conducto tanque09
+    6400024: cristal
+    6400026: encimera 1
+    6400028: 'encimera 2 '
+    6400030: holograma
+    6400032: mesa 1
+    6400034: mesa 2
+    6400036: modulo pared00
+    6400038: modulo pared01
+    6400040: modulo pared02
+    6400042: modulo pared03
+    6400044: modulo pared04
+    6400046: modulo pared05
+    6400048: modulo pared06
+    6400050: modulo pared07
+    6400052: puerta
+    6400054: silla00
+    6400056: silla01
+    6400058: silla02
+    6400060: silla03
+    6400062: silla04
+    6400064: silla05
+    6400066: silla06
+    6400068: silla07
+    6400070: silla08
+    6400072: silla09
+    6400074: silla10
+    6400076: silla11
+    6400078: Suelo
+    6400080: tanque00
+    6400082: tanque01
+    6400084: tanque02
+    6400086: tanque03
+    6400088: tanque04
+    6400090: tanque05
+    6400092: tanque06
+    6400094: tanque07
+    6400096: tanque08
+    6400098: tanque09
+    6400100: techo
+    6400102: lateral_suelo_baja003
+    6400104: lateral_suelo_baja004
+    6400106: Object001
+    6400108: Plano_suelo_low001
+    6400110: Plano_suelo_low002
+    6400112: Plano_suelo_low003
+    6400114: Plano_suelo_low004
+    6400116: Plano_suelo_low005
+    6400118: Plano_suelo_low006
+    6400120: Plano_suelo_low007
+    6400122: Plano_suelo_low008
+    6400124: Plano_suelo_low009
+    6400126: Plano_suelo_low010
+    6400128: Plano_suelo_low011
+    6400130: Plano_suelo_low012
+    6400132: Plano_suelo_low013
+    6400134: Plano_suelo_low014
+    6400136: Plano_suelo_low015
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
