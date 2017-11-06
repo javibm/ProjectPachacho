@@ -1,0 +1,156 @@
+fileFormatVersion: 2
+guid: 8594f0d0e0a71704b8bc8c69bbceab43
+timeCreated: 1509985656
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: lateral_suelo_baja
+    100002: lateral_suelo_baja002
+    100004: Plano_suelo_low001
+    100006: Plano_suelo_low002
+    100008: Plano_suelo_low003
+    100010: Plano_suelo_low004
+    100012: Plano_suelo_low005
+    100014: Plano_suelo_low006
+    100016: Plano_suelo_low007
+    100018: Plano_suelo_low008
+    100020: Plano_suelo_low009
+    100022: //RootNode
+    400000: lateral_suelo_baja
+    400002: lateral_suelo_baja002
+    400004: Plano_suelo_low001
+    400006: Plano_suelo_low002
+    400008: Plano_suelo_low003
+    400010: Plano_suelo_low004
+    400012: Plano_suelo_low005
+    400014: Plano_suelo_low006
+    400016: Plano_suelo_low007
+    400018: Plano_suelo_low008
+    400020: Plano_suelo_low009
+    400022: //RootNode
+    2300000: lateral_suelo_baja
+    2300002: lateral_suelo_baja002
+    2300004: Plano_suelo_low001
+    2300006: Plano_suelo_low002
+    2300008: Plano_suelo_low003
+    2300010: Plano_suelo_low004
+    2300012: Plano_suelo_low005
+    2300014: Plano_suelo_low006
+    2300016: Plano_suelo_low007
+    2300018: Plano_suelo_low008
+    2300020: Plano_suelo_low009
+    2300022: //RootNode
+    3300000: lateral_suelo_baja
+    3300002: lateral_suelo_baja002
+    3300004: Plano_suelo_low001
+    3300006: Plano_suelo_low002
+    3300008: Plano_suelo_low003
+    3300010: Plano_suelo_low004
+    3300012: Plano_suelo_low005
+    3300014: Plano_suelo_low006
+    3300016: Plano_suelo_low007
+    3300018: Plano_suelo_low008
+    3300020: Plano_suelo_low009
+    3300022: //RootNode
+    4300000: Plano_suelo_low001
+    4300002: lateral_suelo_baja
+    4300004: Plano_suelo_low002
+    4300006: Plano_suelo_low003
+    4300008: Plano_suelo_low004
+    4300010: Plano_suelo_low005
+    4300012: Plano_suelo_low006
+    4300014: Plano_suelo_low007
+    4300016: Plano_suelo_low008
+    4300018: Plano_suelo_low009
+    4300020: lateral_suelo_baja002
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #91'
+    second: {fileID: 2100000, guid: b69ab62e6005f99449cfc6921473ba15, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 40f77cb160d9c45b0b32727397fbcf17, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
