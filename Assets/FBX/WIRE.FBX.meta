@@ -87,6 +87,8 @@ ModelImporter:
     100158: Text001
     100160: Text002
     100162: //RootNode
+    100164: Shape001_MeshPart0
+    100166: Shape001_MeshPart1
     400000: Box001
     400002: Box002
     400004: Box003
@@ -169,6 +171,8 @@ ModelImporter:
     400158: Text001
     400160: Text002
     400162: //RootNode
+    400164: Shape001_MeshPart0
+    400166: Shape001_MeshPart1
     2300000: Box001
     2300002: Box002
     2300004: Box003
@@ -225,6 +229,8 @@ ModelImporter:
     2300106: NGon015
     2300108: NGon016
     2300110: //RootNode
+    2300112: Shape001_MeshPart0
+    2300114: Shape001_MeshPart1
     3300000: Box001
     3300002: Box002
     3300004: Box003
@@ -281,6 +287,8 @@ ModelImporter:
     3300106: NGon015
     3300108: NGon016
     3300110: //RootNode
+    3300112: Shape001_MeshPart0
+    3300114: Shape001_MeshPart1
     4300000: Box001
     4300002: Box002
     4300004: Box003
@@ -336,8 +344,66 @@ ModelImporter:
     4300104: NGon014
     4300106: NGon015
     4300108: NGon016
+    4300110: Shape001_MeshPart0
+    4300112: Shape001_MeshPart1
+    7400000: Take 001
     9500000: //RootNode
   externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #15'
+    second: {fileID: 2100000, guid: b031e8674df656d438ec5e44b6b41cdb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #16'
+    second: {fileID: 2100000, guid: 8e491900b8fd16d4eb3233f99ad013e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #17'
+    second: {fileID: 2100000, guid: b9eb698581086644ba22ec08a24fb3a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #2'
+    second: {fileID: 2100000, guid: 1bee7da4dc42a514cac6818b4b56cc93, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #35'
+    second: {fileID: 2100000, guid: c8f11debf2ef83b408241a1d030249f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #37'
+    second: {fileID: 2100000, guid: 4210ed4dcfc932f4bbd44c8d149a9328, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #38'
+    second: {fileID: 2100000, guid: f7a0d727e0c44d94baddc662a77ba388, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #39'
+    second: {fileID: 2100000, guid: 06eed0afccc6cb54cb1c991af2cdd082, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #40'
+    second: {fileID: 2100000, guid: ba90b879bf36114499d4fc0968784695, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #41'
+    second: {fileID: 2100000, guid: 6fdb779f6244bc94094dee40831a3eca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #42'
+    second: {fileID: 2100000, guid: c6417cabc0b219744a8a455ad2d9a3d0, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -380,7 +446,7 @@ ModelImporter:
     importCameras: 1
     importLights: 1
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0
