@@ -89,6 +89,9 @@ ModelImporter:
     100162: //RootNode
     100164: Shape001_MeshPart0
     100166: Shape001_MeshPart1
+    100168: WIRE
+    100170: wire A
+    100172: wire B
     400000: Box001
     400002: Box002
     400004: Box003
@@ -173,6 +176,9 @@ ModelImporter:
     400162: //RootNode
     400164: Shape001_MeshPart0
     400166: Shape001_MeshPart1
+    400168: WIRE
+    400170: wire A
+    400172: wire B
     2300000: Box001
     2300002: Box002
     2300004: Box003
@@ -231,6 +237,9 @@ ModelImporter:
     2300110: //RootNode
     2300112: Shape001_MeshPart0
     2300114: Shape001_MeshPart1
+    2300116: WIRE
+    2300118: wire A
+    2300120: wire B
     3300000: Box001
     3300002: Box002
     3300004: Box003
@@ -289,6 +298,9 @@ ModelImporter:
     3300110: //RootNode
     3300112: Shape001_MeshPart0
     3300114: Shape001_MeshPart1
+    3300116: WIRE
+    3300118: wire A
+    3300120: wire B
     4300000: Box001
     4300002: Box002
     4300004: Box003
@@ -346,9 +358,18 @@ ModelImporter:
     4300108: NGon016
     4300110: Shape001_MeshPart0
     4300112: Shape001_MeshPart1
+    4300114: Shape001
+    4300116: WIRE
+    4300118: wire A
+    4300120: wire B
     7400000: Take 001
     9500000: //RootNode
   externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #13'
+    second: {fileID: 2100000, guid: 11a6fd7144f8c6f45bd3c0500a30852f, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
