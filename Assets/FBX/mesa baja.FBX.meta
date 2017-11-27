@@ -10,6 +10,8 @@ ModelImporter:
     2300000: //RootNode
     3300000: //RootNode
     4300000: mesa baja
+    4300002: mesa baja parte 1
+    4300004: mesa baja parte 1ssdsd
     7400000: Take 001
     9500000: //RootNode
   externalObjects:
@@ -18,8 +20,18 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: 'Material #49'
     second: {fileID: 2100000, guid: 1a65679f054c5124b871eea05e5e2ebf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #92'
+    second: {fileID: 2100000, guid: 4ab0e67f986c6fe4380c6b10330d4443, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #94'
+    second: {fileID: 2100000, guid: 7b77e38da60062f41b130d548c89be4d, type: 2}
   materials:
-    importMaterials: 1
+    importMaterials: 0
     materialName: 0
     materialSearch: 1
     materialLocation: 0
