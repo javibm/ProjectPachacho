@@ -10,8 +10,14 @@ ModelImporter:
     2300000: //RootNode
     3300000: //RootNode
     4300000: pilares
+    7400000: Take 001
     9500000: //RootNode
   externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #25'
+    second: {fileID: 2100000, guid: c872ca61e538b19438d750301c2dd18c, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
